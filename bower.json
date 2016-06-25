@@ -1,0 +1,45 @@
+{
+  "name": "nifty-chosen",
+  "description": "Nifty Admin Dashboard template customization of Chosen library that makes select boxes user-friendly.",
+  "keywords": [
+    "select",
+    "multiselect",
+    "dropdown",
+    "form",
+    "input",
+    "ui",
+    "nifty"
+  ],
+  "homepage": "https://github.com/jozefizso/nifty-chosen-package",
+  "license": "https://github.com/jozefizso/nifty-chosen-package/blob/master/LICENSE.txt",
+  "authors": [
+    {
+      "name": "Patrick Filler",
+      "url": "https://github.com/pfiller"
+    },
+    {
+      "name": "Christophe Coevoet",
+      "url": "https://github.com/stof"
+    },
+    {
+      "name": "Ken Earley",
+      "url": "https://github.com/kenearley"
+    },
+    {
+      "name": "Koen Punt",
+      "url": "https://github.com/koenpunt"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.4.4"
+  },
+  "main": [
+    "chosen.jquery.js",
+    "chosen.css"
+  ],
+  "ignore": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jozefizso/nifty-chosen-package.git"
+  }
+}
